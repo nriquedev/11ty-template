@@ -8,6 +8,11 @@
 
 <body>
 
+<nav>
+    {%- for sitepage in collections.pages -%}
+        <a href="{{ sitepage.url }}">{{ sitepage.data.title }}</a>
+    {%- endfor -%}
+</nav>
       {{ content | safe }}
 
 </body>
