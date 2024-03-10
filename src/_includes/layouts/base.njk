@@ -7,9 +7,9 @@
 </head>
 
 <body>
-
-      {% include 'partials/navigation.njk' %}
-      {{ content | safe }}
+    {% include 'partials/header.njk' %}
+    {% include 'partials/navigation.njk' %}
+    {{ content | safe }}
 
 </body>
 </html>
