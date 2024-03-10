@@ -5,6 +5,9 @@ node_modules/
 .env
 .env.test
 
+# Exclud _site folder
+_site
+
 
 
 
