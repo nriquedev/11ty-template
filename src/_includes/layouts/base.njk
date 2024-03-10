@@ -9,9 +9,10 @@
 </head>
 
 <body>
-    {% include 'partials/header.njk' %}
-    {% include 'partials/navigation.njk' %}
-    {{ content | safe }}
-
+    <div class="container">
+      {% include 'partials/header.njk' %}
+      {% include 'partials/navigation.njk' %}
+      {{ content | safe }}
+    </div>
 </body>
 </html>
