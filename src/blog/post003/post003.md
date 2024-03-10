@@ -1,21 +1,11 @@
 ---
 layout: 'layouts/base.njk'
-title: 'Este es el post 003'
+title: 'This is the post 003'
 tags: posts
 date: 2024-01-13
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor lacus non nisl mattis, eget tincidunt mauris placerat. Aliquam pellentesque accumsan orci accumsan dapibus. Morbi ut pellentesque eros. Aenean vestibulum semper quam non tincidunt. Praesent id consequat magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc vitae ipsum ipsum. Proin tincidunt sem et finibus interdum. Duis ac dui dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse aliquet vestibulum quam vitae malesuada. Vivamus semper posuere massa, sit amet dictum diam mattis id. Mauris faucibus augue quis enim feugiat, nec porttitor tellus viverra.
-
-```js
-function myFunction() {
-  return true;
-}
-```
-
-
-
-
 
 ![Kitty Kitty 003](post003-image.jpeg "Kitty You!")
 
