@@ -10,16 +10,16 @@ This is a starter template for a simple 11ty template with support for pages and
 - Blog page (src/blog)
 
 ## Installation
-Clone this repo:
-  `git clone https://github.com/nriquedev/11ty-template.git`
+Clone this repo:  
+ `git clone https://github.com/nriquedev/11ty-template.git`
 
-cd to template dir:
+cd to template dir:  
  `cd 11ty-template`
 
-Install dependencies:
+Install dependencies:  
  `npm install`
 
-Start the site:
+Start the site:  
  `npm start`
 
 
