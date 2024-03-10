@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/base.njk'
-title: 'Este es el post 001'
+title: 'This is the post 001'
 tags: posts
 date: 2024-02-21
 ---
